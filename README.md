@@ -1,4 +1,8 @@
-# will-hero-clone
+# Will Hero Clone
+
+Contributors of the project are: 
+- Ayush Sharma
+- Aanya Trehan
 
 This project has been made using OOPS concepts after carefully creating UML and USE CASE diagrams.
 
